@@ -10,7 +10,7 @@
 .env
 /.tools/
 # Soukromé podklady a výstupy projektu Bohumín byt.
-/Bohumín byt/*/
+/Bohumín byt/
 /Vzory smluv/
 /ui/index.html
 .env.*
