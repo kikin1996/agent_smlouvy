@@ -1,0 +1,17 @@
+# Smlouvy a osobní údaje se nemají omylem přidat do Gitu.
+/podklady/*
+!/podklady/.gitkeep
+/navrhy/*
+!/navrhy/.gitkeep
+/analyzy/*
+!/analyzy/.gitkeep
+/zdroje/*
+!/zdroje/.gitkeep
+.env
+/.tools/
+# Soukromé podklady a výstupy projektu Bohumín byt.
+/Bohumín byt/*/
+/Vzory smluv/
+/ui/index.html
+.env.*
+!.env.example

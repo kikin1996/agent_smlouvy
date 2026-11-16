@@ -1,0 +1,9 @@
+@media(max-width:720px){
+  main,.toolbar,.controls,.compare,.column,.column-head>div{min-width:0}
+  .controls{flex-wrap:wrap;justify-content:flex-start;row-gap:12px}
+  .navigation{margin-left:auto}
+  .column-head>div{flex:1}
+  .column-head a{flex-shrink:0}
+  .file-name{max-width:100%;width:200px}
+  .searchbox{min-width:0}
+}

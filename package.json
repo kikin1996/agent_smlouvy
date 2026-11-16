@@ -1,0 +1,12 @@
+{
+  "name": "agent-smlouvy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lokální agent pro realitní smlouvy a barevné porovnání vzoru s návrhem.",
+  "scripts": {
+    "build": "node ui/build.cjs",
+    "start": "node ui/build.cjs && node ui/serve.cjs",
+    "check": "node --check ui/app.js && node --check ui/build.cjs && node --check ui/serve.cjs"
+  },
+  "engines": { "node": ">=18" }
+}

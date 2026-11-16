@@ -1,0 +1,20 @@
+{
+  "rent": {
+    "title": "Nájemní smlouva",
+    "originalName": "Anonymní ukázka původního vzoru",
+    "proposalName": "Anonymní ukázka nového návrhu",
+    "originalFile": "demo.json",
+    "proposalFile": "demo.json",
+    "original": "Smlouva o nájmu bytu\n\nUKÁZKOVÁ DATA — nejde o smlouvu k podpisu.\n\nPronajímatel: [PRONAJÍMATEL]\nNájemce: [PŮVODNÍ NÁJEMCE]\n\nI.\nPředmět nájmu\n\nPronajímatel přenechává nájemci byt č. 1 o dispozici 1+kk na adrese [PŮVODNÍ ADRESA].\n\nII.\nDoba a platby\n\nNájem se sjednává na dobu 12 měsíců.\nNájemné činí 10 000 Kč měsíčně.\nZálohy na služby činí 1 000 Kč měsíčně.\n\nSmluvní strany potvrzují souhlas s obsahem smlouvy.",
+    "proposal": "Smlouva o nájmu bytu\n\nUKÁZKOVÁ DATA — nejde o smlouvu k podpisu.\n\nPronajímatel: [PRONAJÍMATEL]\nNájemce: [NOVÝ NÁJEMCE]\n\nI.\nPředmět nájmu\n\nPronajímatel přenechává nájemci byt č. 17 o dispozici 2+kk na adrese [NOVÁ ADRESA].\nS bytem se přenechává parkovací stání č. 17.\n\nII.\nDoba a platby\n\nNájem se sjednává na dobu 6 měsíců.\nNájemné činí 12 000 Kč měsíčně.\nZálohy na služby činí 700 Kč měsíčně.\n\nSmluvní strany potvrzují souhlas s obsahem smlouvy."
+  },
+  "reservation": {
+    "title": "Rezervační smlouva",
+    "originalName": "Anonymní ukázka původního vzoru",
+    "proposalName": "Anonymní ukázka nového návrhu",
+    "originalFile": "demo.json",
+    "proposalFile": "demo.json",
+    "original": "Rezervační smlouva\n\nUKÁZKOVÁ DATA — nejde o smlouvu k podpisu.\n\nZájemce: [PŮVODNÍ ZÁJEMCE]\n\nI.\nPředmět smlouvy\n\nPředmětem rezervace je byt č. 1 na adrese [PŮVODNÍ ADRESA].\n\nII.\nPodmínky\n\nZamýšlené nájemné činí 10 000 Kč měsíčně.\nJistota činí 20 000 Kč.\nRezervace trvá do [PŮVODNÍ TERMÍN].\n\nTuto smlouvu lze měnit pouze písemnými dodatky.",
+    "proposal": "Rezervační smlouva\n\nUKÁZKOVÁ DATA — nejde o smlouvu k podpisu.\n\nZájemce: [NOVÝ ZÁJEMCE]\n\nI.\nPředmět smlouvy\n\nPředmětem rezervace je byt č. 17 na adrese [NOVÁ ADRESA].\n\nII.\nPodmínky\n\nZamýšlené nájemné činí 12 000 Kč měsíčně.\nJistota činí 30 000 Kč.\nRezervace trvá do [NOVÝ TERMÍN].\n\nTuto smlouvu lze měnit pouze písemnými dodatky."
+  }
+}
